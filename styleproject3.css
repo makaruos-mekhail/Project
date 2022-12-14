@@ -1,0 +1,53 @@
+.a {
+    color: white;
+    font-size: xx-large;
+}
+
+.a:hover {
+    background-color: rgb(255, 255, 255);
+    font-size: xx-large;
+
+}
+.img{
+    width: 24.7%;
+    height: 30em;
+}
+.img:hover{
+    opacity: 0.5;
+
+}
+.nav1:hover
+{
+    background-color: rgb(0, 0, 0);
+
+}
+/* 
+.bg{
+    background-color: grey;
+} */
+.bg1{
+    background-color: rgb(194, 194, 194);
+}
+
+.img1{
+    height: 25em;
+}
+.nav2:hover
+{
+    background-color: rgb(0, 0, 0);
+color: white;
+}
+
+.img4{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+
+.a1{
+    color:white
+}
+.a1:hover{
+    color: rgb(49, 115, 238);
+}
+
